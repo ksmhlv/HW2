@@ -1,1 +1,20 @@
 
+<TEI> 
+   <teiHeader>
+   <fileDesc>
+       <titleStmt>
+<title>Чесмесский бой</title>
+
+<author>М.М.Херасков</author>
+</titleStmt>
+
+<respStmt>
+<persName>Михайлова Ксения</persName>
+<resp> выделение в тексте персоналий/мест</resp>
+</respStmt>
+</fileDesc>
+</teiHeader>
+               
+<text>        
+</text>
+</TEI>
