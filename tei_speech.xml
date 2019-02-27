@@ -1,14 +1,3 @@
-﻿# tei-example
-   <teiHeader>
-   <fileDesc>
-       
-
-<respStmt>
-<persName>Михайлова Ксения</persName>
-<resp> выделение в тексте прямой речи</resp>
-</respStmt>
-</fileDesc>
-</teiHeader>
 
 
 1. 
